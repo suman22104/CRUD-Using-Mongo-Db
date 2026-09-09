@@ -1,1 +1,12 @@
-
+{
+  "name": "Rahul",
+  "email": "rahul@gmail.com",
+  "course": "BCA",
+  "marks": 85
+}
+File sturcture as example
+node-mongodb-crud/
+│
+├── server.js
+├── package.json
+└── .env
